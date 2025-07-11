@@ -141,29 +141,44 @@ mvn compile exec:java -Dexec.mainClass="org.testseed.Arrays.Leetcode.TwoSum"
 
 ## 🗺️ Learning Journey Roadmap
 
-```mermaid
+```
+mermaid
 gantt
-    title 🚀 DSA Development Timeline
-    dateFormat YYYY-MM-DD
-    
-    section 🎯 Phase 1: Arrays Mastery
-    Array Basics              :done, arrays1, 2025-07-01, 3d
-    LeetCode Array Problems   :active, arrays2, 2025-07-04, 4d
-    Array Optimization        :arrays3, 2025-07-06, 2d
-    
-    section 💎 Phase 2: Dynamic Programming
-    DP Fundamentals          :dp1, 2025-09-01, 10d
-    Classic DP Problems      :dp2, 2025-09-10, 10d
-    Advanced DP              :dp3, 2025-09-20, 10d
-    
-    section 🌳 Phase 3: Trees & Graphs
-    Tree Traversals          :tree1, 2025-10-01, 3d
-    Graph Algorithms         :graph1, 2025-10-04, 05d
-    Advanced Graph Problems  :graph2, 2025-10-09, 5d
-    
-    section 🏆 Phase 4: Advanced Topics
-    System Design           :advanced1, 2025-10-15, 2d
-    Mock Interviews         :advanced2, 2025-10-17, 5d
+    title 🚀 DSA + DP Mastery Timeline (Jul 07 – Aug 20, 2025)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %d %b
+
+    section 🧱 Phase 1: Foundations
+    Array Basics              :done,     a1, 2025-07-07, 3d
+    Strings & Char Arrays     :done,     a2, 2025-07-10, 2d
+    Sliding Window / Two Ptrs :done,     a3, 2025-07-12, 3d
+    Hashing & Frequency Maps  :active,   a4, 2025-07-15, 2d
+
+    section ♻️ Phase 2: Recursion & DP
+    Recursion Fundamentals    :          b1, 2025-07-17, 2d
+    Backtracking              :          b2, 2025-07-19, 2d
+    DP Basics (Memoization)   :          b3, 2025-07-21, 3d
+    Tabulation & State Trans  :          b4, 2025-07-24, 2d
+    0/1 Knapsack Variants     :          b5, 2025-07-26, 2d
+    Longest Subsequence/LIS   :          b6, 2025-07-28, 2d
+    Matrix DP (Paths, Grids)  :          b7, 2025-07-30, 2d
+
+    section 🌳 Phase 3: Core DSA Topics
+    Trees (DFS, BFS, Traversal):         c1, 2025-08-01, 3d
+    Binary Search Trees (BST) :          c2, 2025-08-04, 2d
+    Heaps & Priority Queues   :          c3, 2025-08-06, 2d
+    Tries & Prefix Trees      :          c4, 2025-08-08, 2d
+    Graphs (DFS/BFS)          :          c5, 2025-08-10, 3d
+    Dijkstra / Topo Sort      :          c6, 2025-08-13, 2d
+
+    section 🧠 Phase 4: Advanced Patterns
+    Greedy Algorithms         :          d1, 2025-08-15, 2d
+    Bit Manipulation          :          d2, 2025-08-17, 1d
+    Union-Find / DSU          :          d3, 2025-08-18, 1d
+
+    section 🏁 Final Wrap-Up
+    Mock Interviews           :          e1, 2025-08-19, 1d
+    Final Review              :          e2, 2025-08-20, 1d
 ```
 
 ---
