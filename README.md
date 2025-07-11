@@ -139,7 +139,7 @@ mvn compile exec:java -Dexec.mainClass="org.testseed.Arrays.Leetcode.TwoSum"
 
 ---
 
-## 🗺️ Learning Journey Roadmap
+# 🗺️ Learning Journey Roadmap
 
 ```mermaid
 gantt
@@ -178,8 +178,7 @@ gantt
     section 🏁 Final Wrap-Up
     Mock Interviews           :          e1, 2025-08-19, 1d
     Final Review              :          e2, 2025-08-20, 1d
-
-
+```
 ---
 
 ## 🎯 Currently Implemented Array Problems
