@@ -147,23 +147,23 @@ gantt
     dateFormat YYYY-MM-DD
     
     section 🎯 Phase 1: Arrays Mastery
-    Array Basics              :done, arrays1, 2024-01-01, 30d
-    LeetCode Array Problems   :active, arrays2, 2024-01-15, 45d
-    Array Optimization        :arrays3, 2024-02-15, 15d
+    Array Basics              :done, arrays1, 2025-07-01, 3d
+    LeetCode Array Problems   :active, arrays2, 2025-07-04, 4d
+    Array Optimization        :arrays3, 2025-07-06, 2d
     
     section 💎 Phase 2: Dynamic Programming
-    DP Fundamentals          :dp1, 2024-03-01, 20d
-    Classic DP Problems      :dp2, 2024-03-21, 30d
-    Advanced DP              :dp3, 2024-04-20, 25d
+    DP Fundamentals          :dp1, 2025-09-01, 10d
+    Classic DP Problems      :dp2, 2025-09-10, 10d
+    Advanced DP              :dp3, 2025-09-20, 10d
     
     section 🌳 Phase 3: Trees & Graphs
-    Tree Traversals          :tree1, 2024-05-15, 15d
-    Graph Algorithms         :graph1, 2024-05-30, 20d
-    Advanced Graph Problems  :graph2, 2024-06-19, 15d
+    Tree Traversals          :tree1, 2025-10-01, 3d
+    Graph Algorithms         :graph1, 2025-10-04, 05d
+    Advanced Graph Problems  :graph2, 2025-10-09, 5d
     
     section 🏆 Phase 4: Advanced Topics
-    System Design           :advanced1, 2024-07-04, 20d
-    Mock Interviews         :advanced2, 2024-07-24, 10d
+    System Design           :advanced1, 2025-10-15, 2d
+    Mock Interviews         :advanced2, 2025-10-17, 5d
 ```
 
 ---
