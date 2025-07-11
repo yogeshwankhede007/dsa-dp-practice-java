@@ -141,8 +141,7 @@ mvn compile exec:java -Dexec.mainClass="org.testseed.Arrays.Leetcode.TwoSum"
 
 ## 🗺️ Learning Journey Roadmap
 
-```
-mermaid
+```mermaid
 gantt
     title 🚀 DSA + DP Mastery Timeline (Jul 07 – Aug 20, 2025)
     dateFormat  YYYY-MM-DD
@@ -179,7 +178,7 @@ gantt
     section 🏁 Final Wrap-Up
     Mock Interviews           :          e1, 2025-08-19, 1d
     Final Review              :          e2, 2025-08-20, 1d
-```
+
 
 ---
 
