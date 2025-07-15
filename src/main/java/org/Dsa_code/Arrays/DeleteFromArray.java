@@ -1,5 +1,5 @@
 
-package org.testseed.Arrays;
+package org.Dsa_code.Arrays;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.testseed.Arrays.Leetcode;
+package org.Dsa_code.Arrays.Leetcode;
 
 /**
  * Rotates an array to the right by k steps using in-place reversal.
