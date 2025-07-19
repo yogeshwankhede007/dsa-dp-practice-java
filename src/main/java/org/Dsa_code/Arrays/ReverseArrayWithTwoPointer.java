@@ -1,4 +1,4 @@
-package org.testseed.Arrays;
+package org.Dsa_code.Arrays;
 
 public class ReverseArrayWithTwoPointer {
     public void revArrayWithTwoPointer( int [] arr){

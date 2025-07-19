@@ -1,4 +1,4 @@
-package org.testseed.Arrays;
+package org.Dsa_code.Arrays;
 
 public class ReverseArrayWithSwapping {
     public void revArrayWithSwap(int [] arr){

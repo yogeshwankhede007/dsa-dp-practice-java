@@ -1,4 +1,4 @@
-package org.testseed.Arrays;
+package org.Dsa_code.Arrays;
 
 public class FindMinimumNumber {
     private static final int [] input = {12,23,45,13,6,32};

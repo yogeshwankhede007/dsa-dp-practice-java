@@ -131,10 +131,10 @@ cd dsa-dp-practice-java
 javac src/main/java/org/testseed/Arrays/Leetcode/TwoSum.java
 
 # 🎪 Step 4: Run the solution
-java src.main.java.org.testseed.Arrays.Leetcode.TwoSum
+java src.main.java.Leetcode.org.Dsa_code.Arrays.TwoSum
 
 # 🔥 Alternative: Use Maven (if configured)
-mvn compile exec:java -Dexec.mainClass="org.testseed.Arrays.Leetcode.TwoSum"
+mvn compile exec:java -Dexec.mainClass="Leetcode.org.Dsa_code.Arrays.TwoSum"
 ```
 
 ---
