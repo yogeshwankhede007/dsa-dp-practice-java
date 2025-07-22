@@ -1,4 +1,4 @@
-package org.testseed.Arrays.Leetcode;
+package org.Dsa_code.Arrays.Leetcode;
 
 /**
  * Problem: Leetcode 136
