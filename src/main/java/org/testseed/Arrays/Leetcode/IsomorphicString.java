@@ -18,7 +18,7 @@ public class IsomorphicString {
     }
 
     public static void main(String[] args) {
-        String input = "yogesh", iso = "admin1as";
+        String input = "paper", iso = "titanic";
         IsomorphicString isomorphicString = new IsomorphicString();
         if (isomorphicString.checkIsomorphic(input,iso))
         System.out.println("YES, IT's ISOMORPHIC");
