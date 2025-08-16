@@ -2,22 +2,28 @@ package org.testseed.Arrays;
 
 public class FindSingleNumber {
 
-    public int findSingleNumber(int [] nums){
+    public int findSingleNumber(int [] numbs){
 
-        int n = nums.length;
+        int n = numbs.length;
 
-        for (int i=0;i<nums.length; i++){
-            int count =0;
-            for(int j=0; j<nums.length; j++){
-                if(nums[i]== nums[j]){
+        for (int numb : numbs) {
+            int count = 0;
+            for (int i : numbs) {
+                if (numb == i) {
                     count++;
                 }
             }
 
-            if(count == 1) {
-                return nums[i];
+            if (count == 1) {
+                return numb;
             }
         }
         return-1;
+    }
+
+    public static void main(String[] args) {
+        int[] inputNumbs = {1,1,2,1,3,4,2,3};
+        FindSingleNumber findSecondLargestNumber = new FindSingleNumber();
+        System.out.println("Single Number is : "+findSecondLargestNumber.findSingleNumber(inputNumbs));
     }
 }
