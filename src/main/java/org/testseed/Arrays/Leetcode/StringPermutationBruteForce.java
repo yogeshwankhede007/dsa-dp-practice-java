@@ -1,7 +1,8 @@
 package org.testseed.Arrays.Leetcode;
 
 import java.util.Arrays;
-
+import java.util.LinkedList;
+import java.util.List;
 
 public class StringPermutationBruteForce {
     public static boolean checkInclusion(String s1, String s2){
@@ -21,5 +22,6 @@ public class StringPermutationBruteForce {
 
     public static void main(String[] args) {
         System.out.println(checkInclusion("abi","eidbaooo"));
+        List<String> doublely = new LinkedList<>();
     }
 }
