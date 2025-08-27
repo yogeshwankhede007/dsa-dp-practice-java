@@ -14,6 +14,13 @@ public class OddEvenLinkedList {
             even = even.next;
         }
 
+//        odd=1      even=2
+//          ↓          ↓
+//          1 ─────────→ 3 → 4 → 5 → null
+//             \
+//               2 → 3 → 4 → 5 → null
+
+
         odd.next = evenHead;
         return head;
     }
